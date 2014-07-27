@@ -1,7 +1,7 @@
 Code book
 =========
 
-This list the meating of variables present in the generated dataset.
+This list the meating of variables present in the generated dataset. Units are normalized in the [-1,1] range, and therefore have no dimension.
 
 activity
 --------
